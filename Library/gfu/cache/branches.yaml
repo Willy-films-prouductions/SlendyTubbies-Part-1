@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
+  cacheType: 2
+  lastUpdatedAtString: 2024-08-10T15:40:27.144-05:00
+  initializedAtString: 2024-08-10T15:40:27.132-05:00
+  localBranches: []
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Willy-films-prouductions/SlendyTubbies-Part-1.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys: []
+    values: []
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Willy-films-prouductions/SlendyTubbies-Part-1.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Willy-films-prouductions/SlendyTubbies-Part-1.git

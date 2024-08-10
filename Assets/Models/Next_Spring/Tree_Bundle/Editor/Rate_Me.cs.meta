@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d3bd79ff2f1d9a84eb53866be51506ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273904
+  packageName: Mobile Realistic Tree 7
+  packageVersion: 1.0
+  assetPath: Assets/Next_Spring/Tree_Bundle/Editor/Rate_Me.cs
+  uploadId: 641973

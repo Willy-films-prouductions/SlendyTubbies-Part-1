@@ -1,0 +1,4 @@
+repository "SlendyTubbies Part 1@mcmalbasa@cloud"
+  path "/"
+    br "/main"
+    co "/main"
